@@ -1,3 +1,3 @@
-CREATE DATABASE IF NOT EXISTS ecommerce_analytics;
+CREATE DATABASE ecommerce;
 
-USE ecommerce_analytics;
+USE ecommerce;
