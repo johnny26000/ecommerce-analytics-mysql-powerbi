@@ -75,19 +75,7 @@ Additional data-quality checks were performed for missing values, duplicate orde
 
 SQL Analysis
 
-MySQL was used for:
-
-Database creation
-Table creation
-Data import
-Data cleaning
-Data-quality checks
-Aggregations
-GROUP BY analysis
-Common Table Expressions (CTEs)
-Window functions
-Ranking
-
+MySQL was used for: Database creation, Table creation, Data import, Data cleaning, Data-quality checks, Aggregations, GROUP BY analysis, Common Table Expressions (CTEs), Window functions, and Ranking
 
 The cleaned MySQL dataset was connected to Power BI to create an interactive four-page dashboard.
 
